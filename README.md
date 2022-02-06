@@ -12,12 +12,13 @@ I have followed John Smilga's Vannila JS projects tutorial on YouTube and built 
 
 Link to the tutorial: https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=2110s
 
+The server side of this application is handled by Node.js and Express. I have built the server code from scratch.
 # Simple page
 ![alt text](Screenshots/Simple.png "Simple Page")
 
 # HEX Page
 ![alt text](Screenshots/Hex.png "HEX Page")
 
-app.js and hex.js are Open Source. Feel free to use this code as a reference for your projects but please give me credits, coz, let's agree, leaching sucks!
+app.js, hex.js and server.js are Open Source. Feel free to use this code as a reference for your projects but please give me credits, coz, let's agree, leaching sucks!
 
 Feel free to leave your comments at hayagreev.varadarajan@outlook.com!
