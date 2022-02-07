@@ -13,6 +13,9 @@ I have followed John Smilga's Vannila JS projects tutorial on YouTube and built 
 Link to the tutorial: https://www.youtube.com/watch?v=c5SIG7Ie0dM&t=2110s
 
 The server side of this application is handled by Node.js and Express. I have built the server code from scratch.
+# Home page
+![alt text](Screenshots/Home.png "Home Page")
+
 # Simple page
 ![alt text](Screenshots/Simple.png "Simple Page")
 
