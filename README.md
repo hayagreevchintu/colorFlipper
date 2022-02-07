@@ -6,7 +6,7 @@ Simple page randomly generates a color from green, red, blue and yellow and assi
 
 Hex page randomly generates a hexadecimal code for a color on the fly and assigns it to the body of the page.
 
-You can find the working version of this page at https://hayagreev-color-flipper.netlify.app/
+You can find the working version of this page at https://hayagreev-color-flipper.herokuapp.com/
 
 I have followed John Smilga's Vannila JS projects tutorial on YouTube and built this page. I have not designed the CSS. I have only built the JavaScript functionality(app.js for simple and hex.js for hex) to gain a better understanding and grasp on my JS skills.
 
