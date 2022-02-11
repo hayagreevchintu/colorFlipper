@@ -5,7 +5,7 @@ require('dotenv').config({path: __dirname + '/.env'});
 app.set("view engine", "ejs");
 app.use(express.static("public"));
 
-app.get("/", (rew, res) => {
+app.get("/", (req, res) => {
     res.render("home");
 });
 
